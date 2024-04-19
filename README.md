@@ -3,6 +3,10 @@
 ## ■画面遷移図
 Figma : https://www.figma.com/file/ATFMmWCGUM49Lc8pyUutuV/sound_hit?type=design&node-id=0%3A1&mode=design&t=DmyONjpwjUrwYCXh-1
 
+## ■ER図
+![ER図](https://gyazo.com/766cc4071b409d1c906392f70860baec.png)
+(https://gyazo.com/766cc4071b409d1c906392f70860baec)
+
 ## ■サービス概要
 音ピシャは、カラオケや楽器演奏で最初の1音目をドンピシャで当てれるように練習するための音声測定サービスです。
 - デバイスから発生した音と同じ高さの声・音が出たか測定します。
